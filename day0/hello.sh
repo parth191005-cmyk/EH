@@ -1,0 +1,1 @@
+echo "Hello, World! I’m ready to become an Ethical Hacker!"
