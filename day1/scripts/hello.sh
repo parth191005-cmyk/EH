@@ -1,0 +1,5 @@
+echo "Hello, World! I’m ready to become an Ethical Hacker!"
+echo "Date: $(date)"
+echo "User: $(whoami)"
+echo "Uptime: $(uptime -p)"
+echo "IP (local): $(hostname -I 2>/dev/null || echo 'no ip')"
